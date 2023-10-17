@@ -1,0 +1,6 @@
+#!/bin/bash
+
+## Description: Run hello-world command in order to show hello world message
+## Example: "ddev hello-world"
+
+echo "Hello world"
